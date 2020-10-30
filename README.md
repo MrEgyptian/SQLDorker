@@ -5,5 +5,5 @@ The script is in python3
 git clone https://github.com/Ahmedmahmed8a/SQLDorker
 cd SQLDorker
 
-python3 SQLDorker.py 
+python3 sqldorker.py 
 ``` 
